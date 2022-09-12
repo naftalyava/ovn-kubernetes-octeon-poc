@@ -1,7 +1,7 @@
 The setup:
- # k8s control plane node
- # k8s worker node
- # dpu node
+ 1. k8s control plane node
+ 2. k8s worker node
+ 3. dpu node
 
 High level instructions
 1. Install Kubernetes cluster.
