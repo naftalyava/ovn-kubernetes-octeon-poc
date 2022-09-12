@@ -4,6 +4,7 @@ The setup:
  3. dpu node
 
 High level instructions
+0. Build and push ovn-kubernetes for both x86 and aarch64 arch
 1. Install Kubernetes cluster.
 2. Install ovs on k8s control plane node and dpu node.
 3. Deploy ovn-kubernetes on k8s cluster using dist/images/deploy.sh script [edit per your setup]
